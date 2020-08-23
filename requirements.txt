@@ -1,0 +1,5 @@
+tensorflow==2.1.0
+numpy==1.18.1
+pillow==2.2.1
+matplotlib==3.2.1
+tensorflow_datasets==3.0.0
